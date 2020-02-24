@@ -5,7 +5,8 @@ A slimline C++ class for parsing command-line arguments, with an interface simil
 Usage
 -----
 An example says it best:
-  
+    
+    #include "argparse.hpp"
     int main(int argc, const char** argv) {
 
       // make a new ArgumentParser
